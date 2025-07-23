@@ -1,5 +1,5 @@
-Gradio-based Web App for Salary Prediction using Random Forest
-A machine learning web app that predicts salaries based on age, gender, education, job title, and experience. Built using Gradio and a Random Forest model trained on EmployeeDataSet.csv. Includes optional currency conversion.
+#Gradio-based Web App for Salary Prediction using Random Forest
+###A machine learning web app that predicts salaries based on age, gender, education, job title, and experience. Built using Gradio and a Random Forest model trained on EmployeeDataSet.csv. Includes optional currency conversion.
 
 Salary Predictor Web App :
 
